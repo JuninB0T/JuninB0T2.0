@@ -1,5 +1,5 @@
 const modjunin = (prefix, sender) => {
-	return  _*EAI MAN BEM VINDO AO MOD MENU BOT JUNIN*_
+	return `_*EAI MAN BEM VINDO AO MOD MENU BOT JUNIN*_
 
 AQUI VAI TER APPS HACKS,MODS,WHATSMOD.
 
